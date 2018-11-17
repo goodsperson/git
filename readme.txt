@@ -4,3 +4,4 @@ git has a mutable index called stage.
 this is a test.
 what your name are? can you tell me !
 i`m tied,your`s work have finished!
+this is faild to opern learngit !
